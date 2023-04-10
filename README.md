@@ -1,9 +1,9 @@
 # Welcome to Our Fast Food Restaurant
 
-## Html Css ile Çok Sayfalı Profesyonel Web Site Tasarımı (Full Responsive)
+### Fast Food restaurantları için tasarlanmış bir yazılım sistemidir.
 
-### Kullanilan Teknolojiler
+## Kullanılan Teknolojiler
 
-#### HTML CSS ile dinamik yapı desteklendi.
+### Html Css ile çok sayfalı profesyonel (Full Responsive) web sitesi tasarımı yapıldı.
 
 ![](screen.gif)
